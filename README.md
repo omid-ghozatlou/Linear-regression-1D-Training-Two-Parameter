@@ -1,6 +1,6 @@
 # Linear-regression-1D-Training-Two-Parameter
 In this lab, you will train a model with PyTorch by using the data that we created. The model will have the slope and bias. And we will review how to make a prediction in several different ways by using PyTorch.
-This script is designed to demonstrate the training process of a simple linear regression model using PyTorch. The script includes visualization components to help understand how the model learns over iterations.
+This script is designed to demonstrate the training process of a simple linear regression model. The script includes visualization components to help understand how the model learns over iterations.
 
 ## Prerequisites
 
